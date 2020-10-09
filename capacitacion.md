@@ -119,3 +119,5 @@ A continuación, el proceso de incorporación de cambios creará una nueva confi
 En el diagrama anterior, podemos ver la nueva confirmación H, que es una confirmación de fusión nueva que incluye el contenido de las confirmaciones remotas A, B y C, y tiene un mensaje de registro combinado. Este es un ejemplo de una de las estrategias de fusión de `git pull`.
 
 * Generacion de cambio en master.
+
+* otro cambio en master 2.
