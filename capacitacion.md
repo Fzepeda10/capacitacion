@@ -117,3 +117,5 @@ A continuación, el proceso de incorporación de cambios creará una nueva confi
 ![post-pull](https://wac-cdn.atlassian.com/dam/jcr:b3a663dc-1985-40df-b0a5-c6bcbacd71af/bubble%20diagram-02.svg?cdnVersion=1287)
 
 En el diagrama anterior, podemos ver la nueva confirmación H, que es una confirmación de fusión nueva que incluye el contenido de las confirmaciones remotas A, B y C, y tiene un mensaje de registro combinado. Este es un ejemplo de una de las estrategias de fusión de `git pull`.
+
+* Generacion de cambio en master.
