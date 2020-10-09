@@ -120,3 +120,4 @@ En el diagrama anterior, podemos ver la nueva confirmación H, que es una confir
 
 
 Cambio de funcionalidades
+
